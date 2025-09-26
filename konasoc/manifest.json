@@ -1,0 +1,9 @@
+{
+  "domain": "konasoc",
+  "name": "Kona EV SoC over Wi-Fi ELM327",
+  "version": "0.1.0",
+  "documentation": "https://github.com/shaman79/kona_soc/",
+  "requirements": [],
+  "codeowners": ["@you"],
+  "iot_class": "local_polling"
+}
